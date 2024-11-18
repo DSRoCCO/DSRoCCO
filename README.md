@@ -32,7 +32,7 @@
 - 👯 Buscando colaborar en proyectos interesantes de ciencia de datos, relacionados con trading, bienes raices, finanzas y similares.
 - 🤔 Necesito ayuda con Analisis Predictivo aplicado a trading.
 - 💬 Pregúntame sobre ciencia de datos, análisis predictivo y trading, analisis tecnico, levantamiento de pesas, nutricion, biohacking.
-- 📫 Cómo contactarme: [rogercansaya@example.com](mailto:rogercansaya@example.com)
+- 📫 Cómo contactarme: [rogercansaya@example.com](mailto:rogercansayao@gmail.com)
 - ⚡ Dato curioso: ¡Me encanta usar IA para resolver problemas cotidianos sobre todo para automatizar los procesos repetitivos que realizamos dia a dia!
 - Frases Favoritas:
   - "El azar favorece a una mente preparada" : Louis Pasteur
@@ -84,6 +84,7 @@
   <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Badge"/>
   <img src="https://img.shields.io/badge/Visualización_de_datos-F2C811?style=for-the-badge&logo=tableau&logoColor=black" alt="Data Visualization Badge"/>
 </div>
+
 ---
 
 ### 📊 GitHub Stats:
