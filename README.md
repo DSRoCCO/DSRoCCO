@@ -1,28 +1,38 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/DSRoCCO/DSRoCCO/blob/main/Portada%20de%20Github.png" alt="GitHub Banner" width="800"/>
+  <img decoding="async" src="https://github.com/DSRoCCO/DSRoCCO/blob/main/Portada%20de%20Github.png" alt="GitHub Banner" width="100%"/>
 </div>
+
 ---
 
 <div align="center">
   <h1>
     Hola, soy Roger. ¡Encantado de conocerte!
-    <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
   </h1>
+  <p>
+    🌟 Data Scientist | 💻 Apasionado por el análisis de datos y la visualización interactiva | 📈 Explorador de Big Data y Machine Learning.
+  </p>
 </div>
 
 ---
+
 ### 🔗 Encuéntrame en:
+
 <div align="center">
   <!-- LinkedIn Badge -->
   <a href="https://www.linkedin.com/in/rogercansaya/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  
+  <!-- GitHub Badge -->
   <a href="https://github.com/DSRoCCO" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-   <!-- Visitor Badge -->
+  
+  <!-- Visitor Badge -->
   <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=DSRoCCO.DSRoCCO&color=00cf00" alt="Visitor Badge"/>
 </div>
+
 
 ---
 ### 🛠 Sobre mí
@@ -34,6 +44,7 @@
 - 💬 Pregúntame sobre ciencia de datos, análisis predictivo y trading, analisis tecnico, levantamiento de pesas, nutricion, biohacking.
 - 📫 Cómo contactarme: [rogercansaya@example.com](mailto:rogercansayao@gmail.com)
 - ⚡ Dato curioso: ¡Me encanta usar IA para resolver problemas cotidianos sobre todo para automatizar los procesos repetitivos que realizamos dia a dia!
+  
 - Frases Favoritas:
   - "El azar favorece a una mente preparada" : Louis Pasteur
   - "La accion vence a la perfeccion": Dan sullivan
