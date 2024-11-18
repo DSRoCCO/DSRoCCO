@@ -4,7 +4,7 @@
   <img decoding="async" src="https://github.com/DSRoCCO/DSRoCCO/blob/main/Portada%20de%20Github.png" width="800"/>
 </div>
 
-<center>[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogercansaya/)</center>center>
+<center> [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogercansaya/) </center>
 <div id="badges" align="center">
 <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=DSRoCCO.DSRoCCO&color=00cf00" alt=""/>
 
