@@ -2,14 +2,20 @@
   <img decoding="async" src="https://github.com/DSRoCCO/DSRoCCO/blob/main/Portada%20de%20Github.png" alt="GitHub Banner" width="800"/>
 </div>
 
-<div id="badges" align="center">
+---
+### 🔗 Encuéntrame en:
+<div align="center">
   <!-- LinkedIn Badge -->
   <a href="https://www.linkedin.com/in/rogercansaya/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <!-- Visitor Badge -->
+  <a href="https://github.com/DSRoCCO" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+   <!-- Visitor Badge -->
   <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=DSRoCCO.DSRoCCO&color=00cf00" alt="Visitor Badge"/>
 </div>
+---
 
 <div align="center">
   <h1>
@@ -33,17 +39,7 @@
 
 ---
 
-### 🔗 Encuéntrame en:
-<div align="center">
-  <a href="https://www.linkedin.com/in/rogercansaya/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/DSRoCCO" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
 
----
 
 ### 🚀 Tecnologías y Herramientas:
 <div align="center">
