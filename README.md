@@ -35,13 +35,14 @@
 ---
 ### 🛠 Sobre mí
 
-- 🔭 Actualmente en busca de trabajo como Cientifico de Datos Jr. o Analista de Datos.
-- 🌱 Aprendiendo mas sobre analisis predictivo.
-- 👯 Buscando colaborar en proyectos interesantes de ciencia de datos, relacionados con trading, bienes raices, finanzas y similares.
-- 🤔 Necesito ayuda con Analisis Predictivo aplicado a trading.
-- 💬 Pregúntame sobre ciencia de datos, análisis predictivo y trading, analisis tecnico, levantamiento de pesas, nutricion, biohacking.
-- 📫 Cómo contactarme: [rogercansaya@example.com](mailto:rogercansayao@gmail.com)
-- ⚡ Dato curioso: ¡Me encanta usar IA para resolver problemas cotidianos sobre todo para automatizar los procesos repetitivos que realizamos dia a dia!
+- 🔭 Objetivo Profesional: Aspiro a desempeñarme como Científico de Datos Junior o Analista de Datos, aplicando y ampliando mis competencias en análisis de datos, análisis predictivo y aprendizaje automático.
+- 🌱 Formación Continua: Actualmente, profundizo en análisis predictivo, enfocándome en técnicas avanzadas y su implementación en diversos sectores.
+- 👯 Colaboraciones: Estoy interesado en participar en proyectos de ciencia de datos relacionados con trading, bienes raíces, finanzas y áreas afines, aportando valor mediante análisis y modelos predictivos.
+- 🤔 Áreas de Mejora: Busco mentoría y recursos en análisis predictivo aplicado al trading, con el objetivo de optimizar estrategias y modelos en este ámbito.
+- 💬 Temas de Interés: Estoy abierto a conversar sobre ciencia de datos, análisis predictivo, trading y análisis técnico.
+- 🎯 Pasatiempos: Apasionado por el levantamiento de pesas, la nutrición y el biohacking, siempre en busca de mejorar el rendimiento físico y mental.
+- 📫 Contacto: Puedes comunicarte conmigo a través del correo electrónico: rogercansaya@example.com
+- ⚡ Dato Curioso: Me entusiasma utilizar la inteligencia artificial para resolver problemas cotidianos, especialmente en la automatización de procesos repetitivos, mejorando así la eficiencia diaria.
   
 - Frases Favoritas:
   - "El azar favorece a una mente preparada" : Louis Pasteur
