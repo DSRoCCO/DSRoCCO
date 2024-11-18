@@ -1,6 +1,14 @@
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/DSRoCCO/DSRoCCO/blob/main/Portada%20de%20Github.png" alt="GitHub Banner" width="800"/>
 </div>
+---
+
+<div align="center">
+  <h1>
+    Hola, soy Roger. ¡Encantado de conocerte!
+    <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
 
 ---
 ### 🔗 Encuéntrame en:
@@ -15,17 +23,8 @@
    <!-- Visitor Badge -->
   <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=DSRoCCO.DSRoCCO&color=00cf00" alt="Visitor Badge"/>
 </div>
----
-
-<div align="center">
-  <h1>
-    Hola, soy Roger. ¡Encantado de conocerte!
-    <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
 
 ---
-
 ### 🛠 Sobre mí
 
 - 🔭 Actualmente trabajando en [Tu Proyecto o Empresa].
@@ -38,8 +37,6 @@
 - ⚡ Dato curioso: ¡Me encanta usar IA para resolver problemas cotidianos!
 
 ---
-
-
 
 ### 🚀 Tecnologías y Herramientas:
 <div align="center">
