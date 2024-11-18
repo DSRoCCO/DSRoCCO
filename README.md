@@ -35,6 +35,10 @@
 ---
 ### 🛠 Sobre mí
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Zona%20Horaria-GMT--5-blue?style=for-the-badge" alt="Zona Horaria Badge"/>
+</div>
+
 - 🔭 Objetivo Profesional: Aspiro a desempeñarme como Científico de Datos Junior o Analista de Datos, aplicando y ampliando mis competencias en análisis de datos, análisis predictivo y aprendizaje automático.
 - 🌱 Formación Continua: Actualmente, profundizo en análisis predictivo, enfocándome en técnicas avanzadas y su implementación en diversos sectores.
 - 👯 Colaboraciones: Estoy interesado en participar en proyectos de ciencia de datos relacionados con trading, bienes raíces, finanzas y áreas afines, aportando valor mediante análisis y modelos predictivos.
