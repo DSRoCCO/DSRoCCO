@@ -56,6 +56,48 @@
 
 ---
 
+### 📝 Proyectos Realizados:
+
+Aquí hay una selección de proyectos destacados que he desarrollado. Haz clic en los enlaces para explorar más:
+
+1. **[Data Wrangling y Procesos ETL](https://github.com/DSRoCCO/data-wrangling-etl):**
+   Limpieza y manipulación de datos, preprocesamiento, análisis exploratorio, imputaciones y creación de pipelines ETL para optimizar la preparación de datos.
+
+2. **[Análisis Estadístico para Planes de Prepago de Megaline](https://github.com/DSRoCCO/analisis-estadistico-megaline):**
+   Identificación del plan de prepago más rentable mediante análisis del comportamiento de uso de clientes y pruebas estadísticas.
+
+3. **[Análisis de Ventas de Videojuegos](https://github.com/DSRoCCO/analisis-ventas-videojuegos):**
+   Estudio de patrones de éxito en datos de ventas de videojuegos, proporcionando insights clave para campañas y planificación estratégica.
+
+4. **[Análisis SQL de Viajes de Taxi en Chicago](https://github.com/DSRoCCO/sql-analisis-taxi):**
+   Recopilación y análisis de datos de viajes en taxi, con visualización por barrios y pruebas de hipótesis sobre la duración de viajes.
+
+5. **[Recomendación de Planes Móviles para Megaline](https://github.com/DSRoCCO/clasificacion-planes-moviles):**
+   Desarrollo de un modelo de clasificación con una precisión del 75% para recomendar planes móviles basados en características del cliente.
+
+6. **[Predicción de Churn en Beta Bank](https://github.com/DSRoCCO/prediccion-churn-beta-bank):**
+   Modelo predictivo de machine learning para identificar clientes en riesgo de abandono, optimizando métricas como F1 y AUC-ROC.
+
+7. **[Predicción de Producción de Pozos de Petróleo](https://github.com/DSRoCCO/prediccion-pozos-petroleo):**
+   Modelo de regresión para evaluar el potencial de pozos de petróleo, balanceando beneficios y riesgos financieros.
+
+8. **[Modelos para Seguros y Privacidad de Datos](https://github.com/DSRoCCO/modelos-seguros-privacidad):**
+   Clasificación de clientes para seguros y enmascaramiento de datos sensibles, preservando precisión en los modelos predictivos.
+
+9. **[Predicción de Pedidos de Taxis con Series Temporales](https://github.com/DSRoCCO/prediccion-pedidos-taxi):**
+   Modelo predictivo para estimar la demanda de taxis por hora, mejorando la disponibilidad en horas pico.
+
+10. **[Clasificación de Críticas de IMDB](https://github.com/DSRoCCO/clasificacion-criticas-imdb):**
+    Análisis de texto para identificar críticas negativas en reseñas de películas, logrando una precisión F1 superior a 0.85.
+
+11. **[Visión Artificial para Estimación de Edad](https://github.com/DSRoCCO/vision-artificial-edad):**
+    Modelo de visión artificial para estimar la edad de clientes en tiendas, ayudando al cumplimiento de leyes sobre la venta de alcohol.
+
+12. **[Clustering y Detección de Anomalías](https://github.com/DSRoCCO/clustering-anomalias):**
+    Segmentación de datos y análisis de patrones atípicos utilizando técnicas como K-means, bosque de aislamiento y KNN.
+
+---
+
 ### 🚀 Tecnologías y Herramientas:
 
 <div align="center">
