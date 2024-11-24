@@ -60,7 +60,7 @@
 
 Aquí hay una selección de proyectos destacados que he desarrollado. Haz clic en los enlaces para explorar más:
 
-1. **[Data Wrangling y Procesos ETL](https://github.com/DSRoCCO/data-wrangling-etl):**
+1. **[Data Wrangling y Procesos ETL](https://github.com/DSRoCCO/data_wrangling_etl_TPT/blob/main/notebooks/run.ipynb):**
    Limpieza y manipulación de datos, preprocesamiento, análisis exploratorio, imputaciones y creación de pipelines ETL para optimizar la preparación de datos.
 
 2. **[Análisis Estadístico para Planes de Prepago de Megaline](https://github.com/DSRoCCO/analisis-estadistico-megaline):**
