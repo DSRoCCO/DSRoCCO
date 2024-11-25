@@ -69,7 +69,7 @@ Aquí hay una selección de proyectos destacados que he desarrollado. Haz clic e
 3. **[Análisis de Ventas de Videojuegos](https://github.com/DSRoCCO/analisis_ventas_videojuegos_TPT/blob/main/notebooks/run.ipynb):**
    Estudio de patrones de éxito en datos de ventas de videojuegos, proporcionando insights clave para campañas y planificación estratégica.
 
-4. **[Análisis SQL de Viajes de Taxi en Chicago]([https://github.com/DSRoCCO/sql-analisis-taxi](https://github.com/DSRoCCO/sql-analisis-taxi_TPT/blob/main/notebooks/run.ipynb)):**
+4. **[Análisis SQL de Viajes de Taxi en Chicago](https://github.com/DSRoCCO/sql-analisis-taxi_TPT/blob/main/notebooks/run.ipynb):**
    Recopilación y análisis de datos de viajes en taxi, con visualización por barrios y pruebas de hipótesis sobre la duración de viajes.
 
 5. **[Recomendación de Planes Móviles para Megaline](https://github.com/DSRoCCO/clasificacion-planes-moviles):**
