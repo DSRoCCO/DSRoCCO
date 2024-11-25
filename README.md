@@ -66,7 +66,7 @@ Aquí hay una selección de proyectos destacados que he desarrollado. Haz clic e
 2. **[Análisis Estadístico para Planes de Prepago de Megaline](https://github.com/DSRoCCO/analisis_estadistico_megaline_TPT/blob/main/notebooks/run.ipynb):**
    Identificación del plan de prepago más rentable mediante análisis del comportamiento de uso de clientes y pruebas estadísticas.
 
-3. **[Análisis de Ventas de Videojuegos](https://github.com/DSRoCCO/analisis-ventas-videojuegos):**
+3. **[Análisis de Ventas de Videojuegos](https://github.com/DSRoCCO/analisis_ventas_videojuegos_TPT/blob/main/notebooks/run.ipynb):**
    Estudio de patrones de éxito en datos de ventas de videojuegos, proporcionando insights clave para campañas y planificación estratégica.
 
 4. **[Análisis SQL de Viajes de Taxi en Chicago](https://github.com/DSRoCCO/sql-analisis-taxi):**
