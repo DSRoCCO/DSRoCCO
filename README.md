@@ -81,7 +81,7 @@ Aquí hay una selección de proyectos destacados que he desarrollado. Haz clic e
 7. **[Predicción de Producción de Pozos de Petróleo](https://github.com/DSRoCCO/prediccion_pozos_petroleo_TPT/blob/main/notebooks/run.ipynb):**
    Modelo de regresión para evaluar el potencial de pozos de petróleo, balanceando beneficios y riesgos financieros.
 
-8. **[Modelos para Seguros y Privacidad de Datos](https://github.com/DSRoCCO/modelos-seguros-privacidad):**
+8. **[Modelos para Seguros y Privacidad de Datos](https://github.com/DSRoCCO/modelos_seguros_privacidad_TPT/blob/main/notebooks/run.ipynb):**
    Clasificación de clientes para seguros y enmascaramiento de datos sensibles, preservando precisión en los modelos predictivos.
 
 9. **[Predicción de Pedidos de Taxis con Series Temporales](https://github.com/DSRoCCO/prediccion-pedidos-taxi):**
