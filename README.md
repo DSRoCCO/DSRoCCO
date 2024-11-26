@@ -75,7 +75,7 @@ Aquí hay una selección de proyectos destacados que he desarrollado. Haz clic e
 5. **[Recomendación de Planes Móviles para Megaline](https://github.com/DSRoCCO/clasificacion_planes_moviles_TPT/blob/main/notebooks/run.ipynb):**
    Desarrollo de un modelo de clasificación con una precisión del 75% para recomendar planes móviles basados en características del cliente.
 
-6. **[Predicción de Churn en Beta Bank](https://github.com/DSRoCCO/prediccion-churn-beta-bank):**
+6. **[Predicción de Churn en Beta Bank](https://github.com/DSRoCCO/prediccion_churn_beta_bank_TPT/blob/main/notebooks/run.ipynb):**
    Modelo predictivo de machine learning para identificar clientes en riesgo de abandono, optimizando métricas como F1 y AUC-ROC.
 
 7. **[Predicción de Producción de Pozos de Petróleo](https://github.com/DSRoCCO/prediccion-pozos-petroleo):**
