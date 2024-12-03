@@ -87,7 +87,7 @@ Aquí hay una selección de proyectos destacados que he desarrollado. Haz clic e
 9. **[Predicción de Pedidos de Taxis con Series Temporales](https://github.com/DSRoCCO/prediccion_pedidos_taxi_TPT/blob/main/notebooks/run.ipynb):**
    Modelo predictivo para estimar la demanda de taxis por hora, mejorando la disponibilidad en horas pico.
 
-10. **[Clasificación de Críticas de IMDB](https://github.com/DSRoCCO/clasificacion-criticas-imdb):**
+10. **[Clasificación de Críticas de IMDB](https://github.com/DSRoCCO/clasificacion_criticas_imdb_TPT/blob/main/notebooks/run.ipynb):**
     Análisis de texto para identificar críticas negativas en reseñas de películas, logrando una precisión F1 superior a 0.85.
 
 11. **[Visión Artificial para Estimación de Edad](https://github.com/DSRoCCO/vision-artificial-edad):**
