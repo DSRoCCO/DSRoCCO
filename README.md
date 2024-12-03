@@ -90,11 +90,6 @@ Aquí hay una selección de proyectos destacados que he desarrollado. Haz clic e
 10. **[Clasificación de Críticas de IMDB](https://github.com/DSRoCCO/clasificacion_criticas_imdb_TPT/blob/main/notebooks/run.ipynb):**
     Análisis de texto para identificar críticas negativas en reseñas de películas, logrando una precisión F1 superior a 0.85.
 
-11. **[Visión Artificial para Estimación de Edad](https://github.com/DSRoCCO/vision-artificial-edad):**
-    Modelo de visión artificial para estimar la edad de clientes en tiendas, ayudando al cumplimiento de leyes sobre la venta de alcohol.
-
-12. **[Clustering y Detección de Anomalías](https://github.com/DSRoCCO/clustering-anomalias):**
-    Segmentación de datos y análisis de patrones atípicos utilizando técnicas como K-means, bosque de aislamiento y KNN.
 
 ---
 
