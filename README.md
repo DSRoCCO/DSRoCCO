@@ -89,8 +89,10 @@ Aquí hay una selección de proyectos destacados que he desarrollado. Haz clic e
 
 10. **[Clasificación de Críticas de IMDB](https://github.com/DSRoCCO/clasificacion_criticas_imdb_TPT/blob/main/notebooks/run.ipynb):**
     Análisis de texto para identificar críticas negativas en reseñas de películas, logrando una precisión F1 superior a 0.85.
-
-
+    
+11. **[Clasificación de Cancelacion de Usuarios - Servicios Interconnect](https://github.com/DSRoCCO/Telecomunicaciones_Interconnect_TPT/blob/main/notebooks/run.ipynb):**
+    Modelo de clasfificacion para determinar que usuarios podrian cancelar el servicios de Interconnect, logrando un AUC_ROC de 0.85 TEST
+    
 ---
 
 ### 🚀 Tecnologías y Herramientas:
