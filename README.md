@@ -43,7 +43,7 @@
 - 🤔 Áreas de Mejora: Busco colaboraciones y recursos en análisis predictivo aplicado al trading, con el objetivo de optimizar estrategias y modelos en este ámbito.
 - 💬 Temas de Interés: Estoy abierto a conversar sobre ciencia de datos, análisis predictivo, trading y análisis técnico.
 - 🎯 Pasatiempos: Apasionado por el levantamiento de pesas, la nutrición y el biohacking, siempre en busca de mejorar el rendimiento físico y mental.
-- 📫 Contacto: Puedes comunicarte conmigo a través del correo electrónico: rogercansaya@example.com
+- 📫 Contacto: Puedes comunicarte conmigo a través del correo electrónico: rogercansayao@gmail.com
 - ⚡ Dato Curioso: Me entusiasma utilizar la inteligencia artificial para resolver problemas cotidianos, especialmente en la automatización de procesos repetitivos, mejorando así la eficiencia diaria.
   
 - Frases Favoritas:
