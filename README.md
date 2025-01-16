@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/DSRoCCO/DSRoCCO/blob/main/banner%20linkedin%202.png" alt="GitHub Banner" width="100%"/>
+  <img decoding="async" src="https://github.com/DSRoCCO/DSRoCCO/blob/main/banner%20linkedin%204.png" alt="GitHub Banner" width="100%"/>
 </div>
 
 ---
