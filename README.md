@@ -4,7 +4,7 @@
     <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
   </h1>
   <p>
-    🔬 Data Scientist Jr. & ⚡ Ing. Electricista | 📊 Excel | 📈 Power BI | 🐍 Python | 🗄 SQL | 📊 Tableau | 🪐 Jupyter | 🖥 GitHub | 📉 Análisis de datos | 🔄 Data Wrangling | ⚙️ ETL | 🤖 Modelos de Clasificación, Regresión y Predictivos | 🧠 Machine Learning |🌟 Data Scientist | 💻 Apasionado por el análisis de datos y la visualización interactiva | 📈 Explorador de Big Data y Machine Learning
+    🔬 Data Scientist Jr. & ⚡ Ing. Electricista | 📊 Excel | 📈 Power BI | 🐍 Python | 🗄 SQL | 📊 Tableau | 🪐 Jupyter | 🖥 GitHub | 📉 Análisis de datos | 🔄 Data Wrangling | ⚙️ ETL | 🤖 Modelos de Clasificación, Regresión y Predictivos | 🧠 Machine Learning |💻 Apasionado por el análisis de datos y la visualización interactiva | 📈 Explorador de Big Data y Machine Learning
   </p>
 </div>
 
