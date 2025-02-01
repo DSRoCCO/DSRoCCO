@@ -31,19 +31,19 @@
 ---
 ### 🛠 Sobre mí
 
-- 🔭 Objetivo Profesional: Aspiro a desempeñarme como Científico de Datos Junior o Analista de Datos, aplicando y ampliando mis competencias en análisis de datos, análisis predictivo y aprendizaje automático.
+- 🔭 Objetivo Profesional: Aspiro a desempeñarme como Científico de Datos Junior y/o Analista de Datos, aplicando y ampliando mis competencias en análisis de datos, análisis predictivo, series temporales y aprendizaje automático.
 - 🌱 Formación Continua: Actualmente, profundizo en análisis predictivo, enfocándome en técnicas avanzadas y su implementación en diversos sectores.
-- 👯 Colaboraciones: Estoy interesado en participar en proyectos de ciencia de datos relacionados con trading, bienes raíces, finanzas y áreas afines, aportando valor mediante análisis y modelos predictivos.
-- 🤔 Áreas de Mejora: Busco colaboraciones y recursos en análisis predictivo aplicado al trading, con el objetivo de optimizar estrategias y modelos en este ámbito.
+- 👯 Colaboraciones: Estoy interesado en participar en proyectos de ciencia de datos relacionados con el area de finanzas, trading, bienes raíces, marketing y áreas afines, aportando valor mediante el análisis de datos y modelos predictivos.
+- 🤔 Áreas de Mejora: Busco colaboraciones y recursos en análisis predictivo aplicado a finanzas, trading, bienes raices, marketing con el objetivo de optimizar estrategias y modelos en este ámbito.
 - 💬 Temas de Interés: Estoy abierto a conversar sobre ciencia de datos, análisis predictivo, trading y análisis técnico.
 - 🎯 Pasatiempos: Apasionado por el levantamiento de pesas, la nutrición y el biohacking, siempre en busca de mejorar el rendimiento físico y mental.
 - 📫 Contacto: Puedes comunicarte conmigo a través del correo electrónico: rogercansayao@gmail.com
-- ⚡ Dato Curioso: Me entusiasma utilizar la inteligencia artificial para resolver problemas cotidianos, especialmente en la automatización de procesos repetitivos, mejorando así la eficiencia diaria.
+- ⚡ Dato Curioso: Me entusiasma utilizar la inteligencia artificial para resolver problemas cotidianos, especialmente en la automatización de procesos repetitivos, mejorando así la eficiencia y productividad.
   
 - Frases Favoritas:
   - "El azar favorece a una mente preparada" : Louis Pasteur
   - "La accion vence a la perfeccion": Dan sullivan
-  - "El exito es ir de fracaso en fracaso son perder el entusiasmo": Winston Churchill
+  - "El exito es ir de fracaso en fracaso sin perder el entusiasmo": Winston Churchill
   - "Un hombre debe convertirse en un monstruo, un verdadero maestro de su poder y fuerza. Pero debe aprender a controlarlo, a dominarse a sí mismo. Solo entonces será alguien verdaderamente virtuoso.": Jordan Peterson
   - "No podemos controlar el viento, pero sí podemos ajustar las velas" : Jean Dean
   - "Enfócate en lo que puedes controlar, suelta lo que no puedes controlar, pero prepárate para afrontar lo inesperado con resiliencia y estrategia." frase adaptada por Roger Cansaya
