@@ -162,11 +162,3 @@ Considerando la consistencia de los resultados en entrenamiento, prueba y valida
   <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Badge"/>
   <img src="https://img.shields.io/badge/Visualización_de_datos-F2C811?style=for-the-badge&logo=tableau&logoColor=black" alt="Data Visualization Badge"/>
 </div>
-
----
-
-### 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DSRoCCO&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSRoCCO&layout=compact&theme=radical" alt="Top Languages"/>
-</div>
