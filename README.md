@@ -98,7 +98,7 @@ En este estudio se evaluaron los tres modelos de clasificación más prometedore
 - **XGBoost:** AUC-ROC = 0.9291
 
 <p align="center">
-  <img src="https://github.com/DSRoCCO/alzheimers_project/blob/main/img/comparacion_modelos_val_cross_relevantes.png" alt="Comparación de Modelos">
+  <img src="https://raw.githubusercontent.com/DSRoCCO/alzheimers_project/refs/heads/main/img/comparacion_modelos_val_cross_relevantes.png" alt="Comparación de Modelos">
 </p>
 
 #### Random Forest Optimizado
@@ -107,21 +107,19 @@ En este estudio se evaluaron los tres modelos de clasificación más prometedore
 - **Validación:** AUC-ROC = 0.9257  
 
 Este modelo muestra un desempeño sólido y consistente, con una ligera disminución del AUC-ROC de entrenamiento a validación, lo cual es normal y sugiere buena capacidad de generalización.
-<div align="center">
 <p align="center">
-  <img src="https://github.com/DSRoCCO/alzheimers_project/blob/main/img/curva_roc_random_forest_classifier_opt_relevantes.png" alt="Random Forest Optimizado">
+  <img src="https://raw.githubusercontent.com/DSRoCCO/alzheimers_project/refs/heads/main/img/curva_roc_random_forest_classifier_opt_relevantes.png" alt="Random Forest Optimizado">
 </p>
 <p align="center">
-  <img src="https://github.com/DSRoCCO/alzheimers_project/blob/main/img/metricas_random_forest_classifier_opt.png" alt="Métricas de Random Forest Optimizado">
+  <img src="https://raw.githubusercontent.com/DSRoCCO/alzheimers_project/refs/heads/main/img/metricas_random_forest_classifier_opt.png" alt="Métricas de Random Forest Optimizado">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DSRoCCO/alzheimers_project/refs/heads/main/img/Distribucion_indices_riesgo_test_valid.png" alt="Distribución de Índice de Riesgo">
 </p>
 
-  <img src="https://github.com/DSRoCCO/alzheimers_project/blob/main/img/Distribucion_indices_riesgo_test_valid.png" alt="Distribución de Índice de Riesgo">
-
-</div>
 #### Selección del Modelo Final
 
 Considerando la consistencia de los resultados en entrenamiento, prueba y validación, **el modelo Random Forest optimizado** se destaca por su equilibrio y robustez. Con un AUC-ROC de 0.9629 en entrenamiento, 0.9408 en prueba y 0.9257 en validación, este modelo demuestra una sólida capacidad de generalización y se escoge como la opción final para predecir qué pacientes podrían tener Alzheimer a partir de la información clínica y de exámenes médicos.
-
 
 ---
 ### 🚀 Tecnologías y Herramientas:
