@@ -98,7 +98,7 @@ En este estudio se evaluaron los tres modelos de clasificación más prometedore
 - **XGBoost:** AUC-ROC = 0.9291
 
 <p align="center">
-  <img src="img/comparacion_modelos_val_cross_relevantes.png" alt="Comparación de Modelos">
+  <img src="https://github.com/DSRoCCO/alzheimers_project/blob/main/img/comparacion_modelos_val_cross_relevantes.png" alt="Comparación de Modelos">
 </p>
 
 ---
