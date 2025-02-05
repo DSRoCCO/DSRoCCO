@@ -97,6 +97,7 @@ En este estudio se evaluaron los tres modelos de clasificación más prometedore
 - **Gradient Boosting Classifier:** AUC-ROC = 0.9305  
 - **XGBoost:** AUC-ROC = 0.9291
 <div align="center">
+  <img src="img/comparacion_modelos_val_cross_relevantes.png" alt="GitHub"/>
 ![Comparacion de Modelos](img/comparacion_modelos_val_cross_relevantes.png)
 </div>
 ---
