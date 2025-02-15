@@ -74,17 +74,18 @@ Aquí hay una selección de proyectos destacados que he desarrollado. Haz clic e
 
 7. **[Predicción de Producción de Pozos de Petróleo](https://github.com/DSRoCCO/prediccion_pozos_petroleo_TPT/blob/main/notebooks/run.ipynb):**
    Modelo de regresión para evaluar el potencial de pozos de petróleo, balanceando beneficios y riesgos financieros.
+   ![Intervalo de confianza y riesgo](https://raw.githubusercontent.com/DSRoCCO/prediccion_pozos_petroleo_TPT/refs/heads/main/img/Intervalos_confianza_y_riego.png)
 
-8. **[Modelos para Seguros y Privacidad de Datos](https://github.com/DSRoCCO/modelos_seguros_privacidad_TPT/blob/main/notebooks/run.ipynb):**
+9. **[Modelos para Seguros y Privacidad de Datos](https://github.com/DSRoCCO/modelos_seguros_privacidad_TPT/blob/main/notebooks/run.ipynb):**
    Clasificación de clientes para seguros y enmascaramiento de datos sensibles, preservando precisión en los modelos predictivos.
 
-9. **[Predicción de Pedidos de Taxis con Series Temporales](https://github.com/DSRoCCO/prediccion_pedidos_taxi_TPT/blob/main/notebooks/run.ipynb):**
+10. **[Predicción de Pedidos de Taxis con Series Temporales](https://github.com/DSRoCCO/prediccion_pedidos_taxi_TPT/blob/main/notebooks/run.ipynb):**
    Modelo predictivo para estimar la demanda de taxis por hora, mejorando la disponibilidad en horas pico.
 
-10. **[Clasificación de Críticas de IMDB](https://github.com/DSRoCCO/clasificacion_criticas_imdb_TPT/blob/main/notebooks/run.ipynb):**
+11. **[Clasificación de Críticas de IMDB](https://github.com/DSRoCCO/clasificacion_criticas_imdb_TPT/blob/main/notebooks/run.ipynb):**
     Análisis de texto para identificar críticas negativas en reseñas de películas, logrando una precisión F1 superior a 0.85.
     
-11. **[Clasificación de Cancelacion de Usuarios - Servicios Interconnect](https://github.com/DSRoCCO/Telecomunicaciones_Interconnect_TPT/blob/main/notebooks/run.ipynb):**
+12. **[Clasificación de Cancelacion de Usuarios - Servicios Interconnect](https://github.com/DSRoCCO/Telecomunicaciones_Interconnect_TPT/blob/main/notebooks/run.ipynb):**
     Modelo de clasfificacion para determinar que usuarios podrian cancelar el servicios de Interconnect, logrando un AUC_ROC de 0.85 TEST
 
 ---
