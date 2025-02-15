@@ -71,6 +71,7 @@ Aquí hay una selección de proyectos destacados que he desarrollado. Haz clic e
 
 6. **[Predicción de Churn en Beta Bank](https://github.com/DSRoCCO/prediccion_churn_beta_bank_TPT/blob/main/notebooks/run.ipynb):**
    Modelo predictivo de machine learning para identificar clientes en riesgo de abandono, optimizando métricas como F1 y AUC-ROC.
+  ![Metricas RF n_estimadores con balanceo](https://raw.githubusercontent.com/DSRoCCO/prediccion_churn_beta_bank_TPT/refs/heads/main/img/metricas_rf_n_estimator_con_balanceo_clases.png)
 
 7. **[Predicción de Producción de Pozos de Petróleo](https://github.com/DSRoCCO/prediccion_pozos_petroleo_TPT/blob/main/notebooks/run.ipynb):**
    Modelo de regresión para evaluar el potencial de pozos de petróleo, balanceando beneficios y riesgos financieros.
