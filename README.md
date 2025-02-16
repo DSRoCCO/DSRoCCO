@@ -71,20 +71,15 @@ Aquí hay una selección de proyectos destacados que he desarrollado. Haz clic e
 
 6. **[Predicción de Churn en Beta Bank](https://github.com/DSRoCCO/prediccion_churn_beta_bank_TPT/blob/main/notebooks/run.ipynb):**
    Modelo predictivo de machine learning para identificar clientes en riesgo de abandono, optimizando métricas como F1 y AUC-ROC.
-   <p align="center">
-  <img src="https://raw.githubusercontent.com/DSRoCCO/prediccion_churn_beta_bank_TPT/refs/heads/main/img/metricas_rf_n_estimator_con_balanceo_clases.png" alt="Metricas RF n_estimadores con balanceo">
-  </p>
+  ![Metricas RF n_estimadores con balanceo](https://raw.githubusercontent.com/DSRoCCO/prediccion_churn_beta_bank_TPT/refs/heads/main/img/metricas_rf_n_estimator_con_balanceo_clases.png)
 
 8. **[Predicción de Producción de Pozos de Petróleo](https://github.com/DSRoCCO/prediccion_pozos_petroleo_TPT/blob/main/notebooks/run.ipynb):**
    Modelo de regresión para evaluar el potencial de pozos de petróleo, balanceando beneficios y riesgos financieros.
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/DSRoCCO/prediccion_pozos_petroleo_TPT/refs/heads/main/img/Intervalos_confianza_y_riego.png" alt="Intervalo de confianza y riesgo">
-  </p>
+  ![Intervalo de confianza y riesgo](https://raw.githubusercontent.com/DSRoCCO/prediccion_pozos_petroleo_TPT/refs/heads/main/img/Intervalos_confianza_y_riego.png)
+  
 9. **[Modelos para Seguros y Privacidad de Datos](https://github.com/DSRoCCO/modelos_seguros_privacidad_TPT/blob/main/notebooks/run.ipynb):**
    Clasificación de clientes para seguros y enmascaramiento de datos sensibles, preservando precisión en los modelos predictivos.
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/DSRoCCO/modelos_seguros_privacidad_TPT/refs/heads/main/img/Comparacion_RMSE_%20R2_4_modelos.png" alt="Comparacion RMSE y R2">
-  </p>
+  ![Comparacion RMSE y R2](https://raw.githubusercontent.com/DSRoCCO/modelos_seguros_privacidad_TPT/refs/heads/main/img/Comparacion_RMSE_%20R2_4_modelos.png)
 
 10. **[Predicción de Pedidos de Taxis con Series Temporales](https://github.com/DSRoCCO/prediccion_pedidos_taxi_TPT/blob/main/notebooks/run.ipynb):**
    Modelo predictivo para estimar la demanda de taxis por hora, mejorando la disponibilidad en horas pico.
