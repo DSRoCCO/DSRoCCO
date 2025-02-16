@@ -90,6 +90,27 @@ Aquí hay una selección de proyectos destacados que he desarrollado. Haz clic e
 12. **[Clasificación de Cancelacion de Usuarios - Servicios Interconnect](https://github.com/DSRoCCO/Telecomunicaciones_Interconnect_TPT/blob/main/notebooks/run.ipynb):**
     Modelo de clasfificacion para determinar que usuarios podrian cancelar el servicios de Interconnect, logrando un AUC_ROC de 0.85 TEST
 
+<h6><a href="https://github.com/DSRoCCO/prediccion_churn_beta_bank_TPT/blob/main/notebooks/run.ipynb">Predicción de Churn en Beta Bank</a></h6>
+<p>Modelo predictivo de machine learning para identificar clientes en riesgo de abandono, optimizando métricas como F1 y AUC-ROC.</p>
+<img src="https://raw.githubusercontent.com/DSRoCCO/prediccion_churn_beta_bank_TPT/refs/heads/main/img/metricas_rf_n_estimator_con_balanceo_clases.png" alt="Métricas RF" width="600">
+
+<h6><a href="https://github.com/DSRoCCO/prediccion_pozos_petroleo_TPT/blob/main/notebooks/run.ipynb">Predicción de Producción de Pozos de Petróleo</a></h6>
+<p>Modelo de regresión para evaluar el potencial de pozos de petróleo, balanceando beneficios y riesgos financieros.</p>
+<img src="https://raw.githubusercontent.com/DSRoCCO/prediccion_pozos_petroleo_TPT/refs/heads/main/img/Intervalos_confianza_y_riego.png" alt="Intervalo de confianza y riesgo" width="600">
+
+<h6><a href="https://github.com/DSRoCCO/modelos_seguros_privacidad_TPT/blob/main/notebooks/run.ipynb">Modelos para Seguros y Privacidad de Datos</a></h6>
+<p>Clasificación de clientes para seguros y enmascaramiento de datos sensibles, preservando precisión en los modelos predictivos.</p>
+<img src="https://raw.githubusercontent.com/DSRoCCO/modelos_seguros_privacidad_TPT/refs/heads/main/img/Comparacion_RMSE_%20R2_4_modelos.png" alt="Comparación RMSE y R2" width="600">
+
+<h6><a href="https://github.com/DSRoCCO/prediccion_pedidos_taxi_TPT/blob/main/notebooks/run.ipynb">Predicción de Pedidos de Taxis con Series Temporales</a></h6>
+<p>Modelo predictivo para estimar la demanda de taxis por hora, mejorando la disponibilidad en horas pico.</p>
+
+<h6><a href="https://github.com/DSRoCCO/clasificacion_criticas_imdb_TPT/blob/main/notebooks/run.ipynb">Clasificación de Críticas de IMDB</a></h6>
+<p>Análisis de texto para identificar críticas negativas en reseñas de películas, logrando una precisión F1 superior a 0.85.</p>
+
+<h6><a href="https://github.com/DSRoCCO/Telecomunicaciones_Interconnect_TPT/blob/main/notebooks/run.ipynb">Clasificación de Cancelación de Usuarios - Servicios Interconnect</a></h6>
+<p>Modelo de clasificación para determinar qué usuarios podrían cancelar el servicio de Interconnect, logrando un AUC-ROC de 0.85 en TEST.</p>
+
 ---
 **[Modelo de Prediccion de Diagnostico de Alzheimer](https://github.com/DSRoCCO/alzheimers_project/blob/main/notebooks/run.ipynb):**
 
