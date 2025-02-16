@@ -54,44 +54,44 @@
 
 Aquí hay una selección de proyectos destacados que he desarrollado. Haz clic en los enlaces para explorar más:
 
-<h6><a href="https://github.com/DSRoCCO/data_wrangling_etl_TPT/blob/main/notebooks/run.ipynb">Data Wrangling y Procesos ETL</a></h6>
+<h3><a href="https://github.com/DSRoCCO/data_wrangling_etl_TPT/blob/main/notebooks/run.ipynb">Data Wrangling y Procesos ETL</a></h3>
 <p> Limpieza y manipulación de datos, preprocesamiento, análisis exploratorio, imputaciones y creación de pipelines ETL para optimizar la preparación de datos.</p>
 
-<h6><a href="https://github.com/DSRoCCO/analisis_estadistico_megaline_TPT/blob/main/notebooks/run.ipynb">Análisis Estadístico para Planes de Prepago de Megaline</a></h6>
+<h3><a href="https://github.com/DSRoCCO/analisis_estadistico_megaline_TPT/blob/main/notebooks/run.ipynb">Análisis Estadístico para Planes de Prepago de Megaline</a></h3>
 <p>Identificación del plan de prepago más rentable mediante análisis del comportamiento de uso de clientes y pruebas estadísticas.</p>
 
-<h6><a href="https://github.com/DSRoCCO/analisis_ventas_videojuegos_TPT/blob/main/notebooks/run.ipynb">Análisis de Ventas de Videojuegos</a></h6>
+<h3><a href="https://github.com/DSRoCCO/analisis_ventas_videojuegos_TPT/blob/main/notebooks/run.ipynb">Análisis de Ventas de Videojuegos</a></h3>
 <p>Estudio de patrones de éxito en datos de ventas de videojuegos, proporcionando insights clave para campañas y planificación estratégica.</p>
 
-<h6><a href="https://github.com/DSRoCCO/sql-analisis-taxi_TPT/blob/main/notebooks/run.ipynb">Análisis SQL de Viajes de Taxi en Chicago</a></h6>
+<h3><a href="https://github.com/DSRoCCO/sql-analisis-taxi_TPT/blob/main/notebooks/run.ipynb">Análisis SQL de Viajes de Taxi en Chicago</a></h3>
 <p>Recopilación y análisis de datos de viajes en taxi, con visualización por barrios y pruebas de hipótesis sobre la duración de viajes.</p>
 
-<h6><a href="https://github.com/DSRoCCO/clasificacion_planes_moviles_TPT/blob/main/notebooks/run.ipynb">Recomendación de Planes Móviles para Megaline</a></h6>
+<h3><a href="https://github.com/DSRoCCO/clasificacion_planes_moviles_TPT/blob/main/notebooks/run.ipynb">Recomendación de Planes Móviles para Megaline</a></h3>
 <p>Desarrollo de un modelo de clasificación con una precisión del 75% para recomendar planes móviles basados en características del cliente.</p>
 
-<h6><a href="https://github.com/DSRoCCO/prediccion_churn_beta_bank_TPT/blob/main/notebooks/run.ipynb">Predicción de Churn en Beta Bank</a></h6>
+<h3><a href="https://github.com/DSRoCCO/prediccion_churn_beta_bank_TPT/blob/main/notebooks/run.ipynb">Predicción de Churn en Beta Bank</a></h3>
 <p>Modelo predictivo de machine learning para identificar clientes en riesgo de abandono, optimizando métricas como F1 y AUC-ROC.</p>
 <img src="https://raw.githubusercontent.com/DSRoCCO/prediccion_churn_beta_bank_TPT/refs/heads/main/img/metricas_rf_n_estimator_con_balanceo_clases.png" alt="Métricas RF" width="600">
 
-<h6><a href="https://github.com/DSRoCCO/prediccion_pozos_petroleo_TPT/blob/main/notebooks/run.ipynb">Predicción de Producción de Pozos de Petróleo</a></h6>
+<h3><a href="https://github.com/DSRoCCO/prediccion_pozos_petroleo_TPT/blob/main/notebooks/run.ipynb">Predicción de Producción de Pozos de Petróleo</a></h3>
 <p>Modelo de regresión para evaluar el potencial de pozos de petróleo, balanceando beneficios y riesgos financieros.</p>
 <img src="https://raw.githubusercontent.com/DSRoCCO/prediccion_pozos_petroleo_TPT/refs/heads/main/img/Intervalos_confianza_y_riego.png" alt="Intervalo de confianza y riesgo" width="600">
 
-<h6><a href="https://github.com/DSRoCCO/modelos_seguros_privacidad_TPT/blob/main/notebooks/run.ipynb">Modelos para Seguros y Privacidad de Datos</a></h6>
+<h3><a href="https://github.com/DSRoCCO/modelos_seguros_privacidad_TPT/blob/main/notebooks/run.ipynb">Modelos para Seguros y Privacidad de Datos</a></h3>
 <p>Clasificación de clientes para seguros y enmascaramiento de datos sensibles, preservando precisión en los modelos predictivos.</p>
 <img src="https://raw.githubusercontent.com/DSRoCCO/modelos_seguros_privacidad_TPT/refs/heads/main/img/Comparacion_RMSE_%20R2_4_modelos.png" alt="Comparación RMSE y R2" width="600">
 
-<h6><a href="https://github.com/DSRoCCO/prediccion_pedidos_taxi_TPT/blob/main/notebooks/run.ipynb">Predicción de Pedidos de Taxis con Series Temporales</a></h6>
+<h3><a href="https://github.com/DSRoCCO/prediccion_pedidos_taxi_TPT/blob/main/notebooks/run.ipynb">Predicción de Pedidos de Taxis con Series Temporales</a></h3>
 <p>Modelo predictivo para estimar la demanda de taxis por hora, mejorando la disponibilidad en horas pico.</p>
 
-<h6><a href="https://github.com/DSRoCCO/clasificacion_criticas_imdb_TPT/blob/main/notebooks/run.ipynb">Clasificación de Críticas de IMDB</a></h6>
+<h3><a href="https://github.com/DSRoCCO/clasificacion_criticas_imdb_TPT/blob/main/notebooks/run.ipynb">Clasificación de Críticas de IMDB</a></h3>
 <p>Análisis de texto para identificar críticas negativas en reseñas de películas, logrando una precisión F1 superior a 0.85.</p>
 
-<h6><a href="https://github.com/DSRoCCO/Telecomunicaciones_Interconnect_TPT/blob/main/notebooks/run.ipynb">Clasificación de Cancelación de Usuarios - Servicios Interconnect</a></h6>
+<h3><a href="https://github.com/DSRoCCO/Telecomunicaciones_Interconnect_TPT/blob/main/notebooks/run.ipynb">Clasificación de Cancelación de Usuarios - Servicios Interconnect</a></h3>
 <p>Modelo de clasificación para determinar qué usuarios podrían cancelar el servicio de Interconnect, logrando un AUC-ROC de 0.85 en TEST.</p>
 
 ---
-<h6><a https://github.com/DSRoCCO/alzheimers_project/blob/main/notebooks/run.ipynb">Modelo de Prediccion de Diagnostico de Alzheimer</a></h6>
+<h3><a https://github.com/DSRoCCO/alzheimers_project/blob/main/notebooks/run.ipynb">Modelo de Prediccion de Diagnostico de Alzheimer</a></h3>
 
 En este estudio se evaluaron los tres modelos de clasificación más prometedores para predecir la probabilidad de Alzheimer a partir de información clínica y resultados de exámenes médicos. Se utilizó el AUC-ROC como métrica principal debido a su capacidad para evaluar la discriminación del modelo sin depender de un umbral de clasificación fijo.
 
