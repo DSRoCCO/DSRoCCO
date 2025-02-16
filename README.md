@@ -79,7 +79,10 @@ Aquí hay una selección de proyectos destacados que he desarrollado. Haz clic e
 
 9. **[Modelos para Seguros y Privacidad de Datos](https://github.com/DSRoCCO/modelos_seguros_privacidad_TPT/blob/main/notebooks/run.ipynb):**
    Clasificación de clientes para seguros y enmascaramiento de datos sensibles, preservando precisión en los modelos predictivos.
-
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/DSRoCCO/modelos_seguros_privacidad_TPT/refs/heads/main/img/Comparacion_RMSE_%20R2_4_modelos.png" alt="Comparacion RMSE y R2">
+  </p>
+https://github.com/DSRoCCO/modelos_seguros_privacidad_TPT/blob/main/img/Comparacion_RMSE_%20R2_4_modelos.png
 10. **[Predicción de Pedidos de Taxis con Series Temporales](https://github.com/DSRoCCO/prediccion_pedidos_taxi_TPT/blob/main/notebooks/run.ipynb):**
    Modelo predictivo para estimar la demanda de taxis por hora, mejorando la disponibilidad en horas pico.
 
