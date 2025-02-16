@@ -95,7 +95,7 @@ Aquí hay una selección de proyectos destacados que he desarrollado. Haz clic e
 
 En este estudio se evaluaron los tres modelos de clasificación más prometedores para predecir la probabilidad de Alzheimer a partir de información clínica y resultados de exámenes médicos. Se utilizó el AUC-ROC como métrica principal debido a su capacidad para evaluar la discriminación del modelo sin depender de un umbral de clasificación fijo.
 
-#### Resultados Iniciales (sin optimización)
+<h4>Resultados Iniciales (sin optimización)</h4>
 - **Random Forest:** AUC-ROC = 0.9363  
 - **Gradient Boosting Classifier:** AUC-ROC = 0.9305  
 - **XGBoost:** AUC-ROC = 0.9291
@@ -104,7 +104,7 @@ En este estudio se evaluaron los tres modelos de clasificación más prometedore
   <img src="https://raw.githubusercontent.com/DSRoCCO/alzheimers_project/refs/heads/main/img/comparacion_modelos_val_cross_relevantes.png" alt="Comparación de Modelos">
 </p>
 
-#### Random Forest Optimizado
+<h4>Random Forest Optimizado</h4>
 - **Entrenamiento:** AUC-ROC = 0.9629  
 - **Prueba:** AUC-ROC = 0.9408  
 - **Validación:** AUC-ROC = 0.9257  
