@@ -91,7 +91,7 @@ Aquí hay una selección de proyectos destacados que he desarrollado. Haz clic e
 <p>Modelo de clasificación para determinar qué usuarios podrían cancelar el servicio de Interconnect, logrando un AUC-ROC de 0.85 en TEST.</p>
 
 ---
-<h3><a https://github.com/DSRoCCO/alzheimers_project/blob/main/notebooks/run.ipynb">Modelo de Prediccion de Diagnostico de Alzheimer</a></h3>
+<h3><a href="https://github.com/DSRoCCO/alzheimers_project/blob/main/notebooks/run.ipynb">Modelo de Prediccion de Diagnostico de Alzheimer</a></h3>
 
 En este estudio se evaluaron los tres modelos de clasificación más prometedores para predecir la probabilidad de Alzheimer a partir de información clínica y resultados de exámenes médicos. Se utilizó el AUC-ROC como métrica principal debido a su capacidad para evaluar la discriminación del modelo sin depender de un umbral de clasificación fijo.
 
