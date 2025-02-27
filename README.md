@@ -96,20 +96,20 @@ Aquí hay una selección de proyectos destacados que he desarrollado. Haz clic e
 En este estudio se evaluaron los tres modelos de clasificación más prometedores para predecir la probabilidad de Alzheimer a partir de información clínica y resultados de exámenes médicos. Se utilizó el AUC-ROC como métrica principal debido a su capacidad para evaluar la discriminación del modelo sin depender de un umbral de clasificación fijo.
 
 <h4>Resultados Iniciales (sin optimización)</h4>
-- **Random Forest:** AUC-ROC = 0.9363  
-- **Gradient Boosting Classifier:** AUC-ROC = 0.9305  
-- **XGBoost:** AUC-ROC = 0.9291
+- **Random Forest:** F1_Score = 0.9033 
+- **Gradient Boosting Classifier:** F1_Score = 0.8777
+- **XGBoost:** F1_Score = 0.8710
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DSRoCCO/alzheimers_project/refs/heads/main/img/comparacion_modelos_val_cross_relevantes.png" alt="Comparación de Modelos">
 </p>
 
-<h4>Random Forest Optimizado</h4>
-- **Entrenamiento:** AUC-ROC = 0.9629  
-- **Prueba:** AUC-ROC = 0.9408  
-- **Validación:** AUC-ROC = 0.9257  
+<h4>Gradient Boosting Optimizado</h4>
+- Entrenamiento: F1_Score = 0.9187
+- Prueba: F1_Score = 0.8921
+- Validación: F1_Score = 0.8686
 
-Este modelo muestra un desempeño sólido y consistente, con una ligera disminución del AUC-ROC de entrenamiento a validación, lo cual es normal y sugiere buena capacidad de generalización.
+Este modelo muestra un desempeño sólido y consistente, con una ligera disminución del F1_Score de entrenamiento a validación, lo cual es normal y sugiere buena capacidad de generalización.
 <p align="center">
   <img src="https://raw.githubusercontent.com/DSRoCCO/alzheimers_project/refs/heads/main/img/curva_roc_random_gradient_boosting_classifier_opt_relevantes.png" alt="Gradient Boosting Optimizado">
 </p>
@@ -122,7 +122,7 @@ Este modelo muestra un desempeño sólido y consistente, con una ligera disminuc
 
 #### Selección del Modelo Final
 
-Considerando la consistencia de los resultados en entrenamiento, prueba y validación, **el modelo Random Forest optimizado** se destaca por su equilibrio y robustez. Con un AUC-ROC de 0.9629 en entrenamiento, 0.9408 en prueba y 0.9257 en validación, este modelo demuestra una sólida capacidad de generalización y se escoge como la opción final para predecir qué pacientes podrían tener Alzheimer a partir de la información clínica y de exámenes médicos.
+Considerando la consistencia de los resultados en entrenamiento, prueba y validación, **el modelo Gradient Boosting** se destaca por su equilibrio y robustez. Con un F1_Score de 0.9077 en entrenamiento, F1_Score de 0.9073 en prueba y F1_Score de 0.8805 en validación, este modelo demuestra una sólida capacidad de generalización y se escoge como la opción final para predecir qué pacientes podrían tener Alzheimer a partir de la información clínica y de exámenes médicos.
 
 ---
 ### 🚀 Tecnologías y Herramientas:
