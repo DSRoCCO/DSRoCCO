@@ -93,7 +93,7 @@ Aquí hay una selección de proyectos destacados que he desarrollado. Haz clic e
 ---
 <h3><a href="https://github.com/DSRoCCO/alzheimers_project/blob/main/notebooks/run.ipynb">Modelo de Prediccion de Diagnostico de Alzheimer</a></h3>
 
-En este estudio se evaluaron los tres modelos de clasificación más prometedores para predecir la probabilidad de Alzheimer a partir de información clínica y resultados de exámenes médicos. Se utilizó el AUC-ROC como métrica principal debido a su capacidad para evaluar la discriminación del modelo sin depender de un umbral de clasificación fijo.
+En este estudio se evaluaron los tres modelos de clasificación más prometedores para predecir la probabilidad de Alzheimer a partir de información clínica y resultados de exámenes médicos. Se utilizó el F1_Score como métrica principal debido a su capacidad para balancear la precision y la sensibilidad.
 
 <h4>Resultados Iniciales (sin optimización)</h4>
 - **Random Forest:** F1_Score = 0.9033 
@@ -105,9 +105,9 @@ En este estudio se evaluaron los tres modelos de clasificación más prometedore
 </p>
 
 <h4>Gradient Boosting Optimizado</h4>
-- Entrenamiento: F1_Score = 0.9187
-- Prueba: F1_Score = 0.8921
-- Validación: F1_Score = 0.8686
+- **Entrenamiento:** F1_Score = 0.9187
+- **Prueba:** F1_Score = 0.8921
+- **Validación:** F1_Score = 0.8686
 
 Este modelo muestra un desempeño sólido y consistente, con una ligera disminución del F1_Score de entrenamiento a validación, lo cual es normal y sugiere buena capacidad de generalización.
 <p align="center">
