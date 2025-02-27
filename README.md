@@ -111,10 +111,10 @@ En este estudio se evaluaron los tres modelos de clasificación más prometedore
 
 Este modelo muestra un desempeño sólido y consistente, con una ligera disminución del AUC-ROC de entrenamiento a validación, lo cual es normal y sugiere buena capacidad de generalización.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DSRoCCO/alzheimers_project/refs/heads/main/img/curva_roc_random_forest_classifier_opt_relevantes.png" alt="Random Forest Optimizado">
+  <img src="https://raw.githubusercontent.com/DSRoCCO/alzheimers_project/refs/heads/main/img/curva_roc_random_gradient_boosting_classifier_opt_relevantes.png" alt="Gradient Boosting Optimizado">
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DSRoCCO/alzheimers_project/refs/heads/main/img/metricas_random_forest_classifier_opt.png" alt="Métricas de Random Forest Optimizado">
+  <img src="https://raw.githubusercontent.com/DSRoCCO/alzheimers_project/refs/heads/main/img/metricas_gradient_bossting_opt.png" alt="Métricas de Gradient Boosting">
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/DSRoCCO/alzheimers_project/refs/heads/main/img/Distribucion_indices_riesgo_test_valid.png" alt="Distribución de Índice de Riesgo">
