@@ -53,6 +53,8 @@ Actualmente curso la **Maestría en Ciencia de Datos en la UNSA**, formación qu
 
 👉 [📂 Ver Repositorio en GitHub](https://github.com/DSRoCCO) | [📊 Ver Notebook & Análisis](https://github.com/DSRoCCO) | [📄 Ver Informe Ejecutivo (PDF)](https://github.com/DSRoCCO)
 
+En proceso de Actualización...
+
 ---
 
 ### 🤖 Enterprise AI Multi-Agent & Clean Architecture Backend (En Producción)
