@@ -40,32 +40,44 @@ Currently pursuing a **Master of Science in Data Science at UNSA**, reinforced b
 
 ---
 
-### 📌 Curated Portfolio Showcase
+### 📌 Strategic Featured Repositories (Curated Showcase)
 
-### 🚗 Auto Motors: Econometric Time-Series Forecasting & Pandemic Shock Mitigation
+### 🚗 Auto Motors: Econometric Time Series Modeling & Pandemic Shock Mitigation
 
 `Python` • `SARIMAX` • `Statsmodels` • `Pandas` • `NumPy` • `Seaborn` • `Business Intelligence`
 
-* **Business Context & Problem:** Financial audit and post-COVID-19 predictive analytics for automotive dealership chain Auto Motors. Evaluated commercial viability, branch profitability, and portfolio concentration risk across **127,255 cleaned transactions** (from >1M raw records) totaling **USD 17,036,580.81** in historical revenue across 7 operating branches.
-* **Econometric COVID-19 Shock Isolation:** Fitted a `SARIMAX` model with pulse intervention exogenous variables (March 2020) to neutralize the abrupt drop without biasing the historical accounting ledger.
-* **5-Year Scenario Forecasting (2021-2025):** Simulated multi-scenario trajectories (Normalized Inertial, Bearish -15%, Bullish +20%) with annualized CAGR analysis, explicitly identifying the *statistical rebound effect* in 2021 (+506.16% in mid scenario) to prevent misleading valuation models for executive stakeholders.
-* **HR & Branch Concentration Risk Audit:** Flagged severe operational vulnerability due to sales concentration (one senior advisor generated 46.4% of total revenue: USD 7,901,499) and delivered formal recommendations to restructure/shut down the 2 lowest-yield branches.
+* **Problem Statement & Business Context:** Financial audit and post-COVID-19 predictive analysis for the Auto Motors dealership network. Based on a historical dataset of **127,255 cleaned transactions** (filtered from over 1M raw records) and **USD 17,036,580.81** billed across 7 dealership locations, the study evaluated commercial viability, operating profitability, and portfolio concentration risk.
+* **Econometric Isolation of the COVID-19 Shock:** Implementation and calibration of a `SARIMAX` econometric model incorporating an intervention pulse dummy variable (March 2020) to neutralize lockdown distortions without altering historical accounting integrity.
+* **5-Year Strategic Trajectories (2021–2025):** Scenario simulation across three horizons (Normalized Baseline, Pessimistic -15%, and Optimistic +20%) with annualized CAGR calculations, explicitly highlighting the *statistical rebound effect* in 2021 (+506.16% in the median scenario) to prevent misleading executive valuations.
+* **HR & Branch Risk Mitigation:** Identification of critical operational vulnerability driven by commercial concentration (a single advisor generated 46.4% of global revenue: USD 7,901,499) along with a formal recommendation to restructure or close the 2 least profitable branches.
 
 👉 [📂 View Repository on GitHub](https://github.com/DSRoCCO) | [📊 View Notebook & Analysis](https://github.com/DSRoCCO) | [📄 View Executive Report (PDF)](https://github.com/DSRoCCO)
 
-In the process of updating...
+---
+
+### 📶 Megaline Telecom: Decision Support System (DSS) & Prepaid Tariff Optimization
+
+`Python` • `Scikit-learn` • `SciPy (Stats)` • `Pandas` • `NumPy` • `Docker` • `uv` • `Telecom Analytics`
+
+* **Problem Statement & Financial Dynamics:** Profitability audit and monthly consumption analysis (2,293 customer-month observations) across the prepaid plans **Surf** ($20/mo) and **Ultimate** ($70/mo) to reallocate commercial acquisition budgets and mitigate friction caused by billing surcharges.
+* **Revenue Asymmetry & Structural Risk in Surf:** The **Surf** plan accounted for 64.7% of total company revenue (**USD 95,491.18**), yet **67.05%** of it originated from overage penalties (primarily data traffic billed at $10 per additional GB; average ARPU of USD 60.71 vs. base fee of USD 20). Conversely, **Ultimate** generated **USD 52,066.00** with **96.80%** derived from stable monthly base fees (ARPU of USD 72.31 with low volatility: standard deviation of USD 11.40 vs. USD 55.39 for Surf).
+* **Rigorous Statistical Inference:** Welch's t-test ($t = -7.95$, $p = 3.17 \times 10^{-15}$) and Mann-Whitney U test ($p = 1.91 \times 10^{-48}$) confirmed statistically significant differences in mean revenue between both tariffs. Regional pricing differentiation was ruled out, as the marginal revenue spread in NY-NJ ($5.30 USD) does not offset regional operational complexity.
+* **Consumption Paradox & Preventive Upselling:** Median usage metrics were identical across both tiers (17 GB and ~424 minutes), demonstrating that plan selection is driven by initial price perception rather than rational consumption capacity. A cohort of **87 Surf users (26.1%)** was identified averaging >USD 70/month and exposed to acute *bill shock*; proactively migrating them to Ultimate secures **USD 6,090/month** in predictable, low-churn recurring revenue.
+
+👉 [📂 View Repository on GitHub](https://github.com/DSRoCCO/megaline-telecom-mvp) | [📊 View Code & Architecture](https://github.com/DSRoCCO/megaline-telecom-mvp)
 
 ---
 
-### 🤖 Enterprise AI Multi-Agent & Clean Architecture Backend (In Production)
+### 🏦 Beta Bank: Customer Churn Predictive System (MVP) & Imbalance Mitigation
 
-`FastAPI` • `TypeScript` • `LangChain` • `vLLM (FP4/FP8)` • `Docker` • `n8n` • `Vitest/Pytest`
+`Python` • `Scikit-learn` • `Imbalanced-Learn` • `Streamlit` • `Docker` • `uv` • `Pipelines` • `Fintech`
 
-* **Business Context & Problem:** Decoupled backend architecture engineered for autonomous AI agent orchestration, integrating local inference pipelines with open models and strict schema validation.
-* **Architectural Design:** Implemented Domain-Driven Design (DDD), ports & adapters, and Result Monad patterns to achieve robust asynchronous error handling.
-* **Orchestration & Automation:** Connected n8n workflows and microservices for automated data ingestion and corporate decision-making compliant with **OWASP Top 10** standards.
+* **Business Context & Problem Statement:** Decision support system for proactive customer retention across a historical portfolio of **10,000 banking clients** exhibiting class imbalance (~20.4% churn rate). The primary objective was to maximize $F_1$-score while exceeding the business benchmark requirement ($F_1 \ge 0.59$).
+* **Data Leakage Elimination & Preprocessing Pipeline:** Strict 3-way stratified partition (60% Train, 20% Validation, 20% blind Test). Resampling (`SMOTE`), loss weighting (`balanced_subsample`), and missing value imputation on `Tenure` (9.09% nulls) were fitted strictly within the training pipeline using `ColumnTransformer` and `Pipeline`, discarding high-cardinality metadata (`Surname`, `CustomerId`).
+* **Feature Engineering & Capital Outflow Findings:** Domain-driven feature design targeting non-linear risk: `AgeInactiveInteraction` emerged as the 2nd most predictive feature (19.4% Gini importance), isolating inactive clients over 45 who exhibited >55% churn probability; `IsMultiProductRisk` captured the churn spike from 82.7% to 100% on clients holding $\ge$3 products. Additionally, severe wealth flight was uncovered in Germany (32.4% churn rate among accounts with average balances of USD 120,000).
+* **Threshold Calibration & Holdout Test Performance:** `Random Forest` hyperparameter optimization via 5-fold stratified cross-validation and decision threshold tuning at **0.52**. The model achieved an **$F_1$-score of 0.6300**, **ROC-AUC of 0.8655**, and **Recall of 66.09%** on the holdout test set (capturing 2 out of 3 actual churners with 60.18% precision).
 
-👉 [📂 View Repository on GitHub](https://github.com/DSRoCCO) | [📑 Architecture Documentation](https://github.com/DSRoCCO)
+👉 [📂 View Repository on GitHub](https://github.com/DSRoCCO/Beta_Bank_mvp) | [📊 View Code & Dashboard](
 
 ---
 
