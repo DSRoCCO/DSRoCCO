@@ -53,7 +53,31 @@ Actualmente curso la **Maestría en Ciencia de Datos en la UNSA**, formación qu
 
 👉 [📂 Ver Repositorio en GitHub](https://github.com/DSRoCCO) | [📊 Ver Notebook & Análisis](https://github.com/DSRoCCO) | [📄 Ver Informe Ejecutivo (PDF)](https://github.com/DSRoCCO)
 
-En proceso de Actualización...
+---
+
+### 📶 Megaline Telecom: Decision Support System (DSS) & Optimización de Tarifas Prepago
+
+`Python` • `Scikit-learn` • `SciPy (Stats)` • `Pandas` • `NumPy` • `Docker` • `uv` • `Telecom Analytics`
+
+* **Descripción del Problema & Dinámica Financiera:** Auditoría de rentabilidad y comportamiento de consumo (2,293 observaciones cliente-mes) entre las tarifas **Surf** ($20/mes) y **Ultimate** ($70/mes) para reorientar el presupuesto comercial y mitigar la fricción de cobro.
+* **Asimetría de Ingresos & Vulnerabilidad de Surf:** El plan **Surf** concentró el 64.7% de la facturación global (**USD 95,491.18**), pero un **67.05%** provino de penalizaciones por sobrecostos (principalmente datos a $10/GB excedente; ARPU medio de USD 60.71 vs. cuota base de USD 20). En contraste, **Ultimate** generó **USD 52,066.00** con un **96.80%** de ingresos basados en cuota fija recurrente (ARPU de USD 72.31 y alta estabilidad: desviación estándar de USD 11.40 frente a USD 55.39 en Surf).
+* **Inferencia Estadística Rigurosa:** Pruebas t de Welch ($t = -7.95$, $p = 3.17 \times 10^{-15}$) y Mann-Whitney U ($p = 1.91 \times 10^{-48}$) confirmaron diferencias estadísticamente significativas en el ingreso promedio entre ambos planes. Se descartó además la diferenciación geográfica de precios, dado que la brecha en NY-NJ ($5.30 USD) no amortiza la complejidad operativa regional.
+* **Paradoja de Consumo & Upselling Preventivo:** Las medianas de consumo resultaron idénticas entre tarifas (17 GB y ~424 min), demostrando que la contratación no responde a una estimación técnica racional del usuario. Se detectaron **87 clientes Surf (26.1%)** con gasto mensual promedio >USD 70 sujetos a riesgo inminente de cancelación por *bill shock*; la migración estructurada a Ultimate asegura **USD 6,090 mensuales** en ingresos predecibles y de bajo churn.
+
+👉 [📂 Ver Repositorio en GitHub](https://github.com/DSRoCCO/megaline-telecom-mvp) | [📊 Ver Código & Arquitectura](https://github.com/DSRoCCO/megaline-telecom-mvp)
+
+---
+
+### 🏦 Beta Bank: Sistema Predictivo de Retención de Clientes (Churn MVP) & Mitigación de Desbalance
+
+`Python` • `Scikit-learn` • `Imbalanced-Learn` • `Streamlit` • `Docker` • `uv` • `Pipelines` • `Fintech`
+
+* **Descripción del Problema & Contexto:** Sistema de soporte a decisiones para la retención proactiva sobre una cartera histórica de **10,000 clientes** con desbalance de clases (~20.4% de churn). El objetivo se fijó en maximizar el $F_1$-score superando el umbral formal de negocio ($F_1 \ge 0.59$).
+* **Eliminación de Data Leakage & Flujo de Preprocesamiento:** Particionado estratificado en tres vías (60% Train, 20% Val, 20% Test ciego). El sobremuestreo (`SMOTE`), la ponderación de clases (`balanced_subsample`) y la imputación de `Tenure` (9.09% nulos) se restringieron estrictamente a la fase de entrenamiento mediante `Pipeline` y `ColumnTransformer`, excluyendo identificadores de alta cardinalidad (`Surname`, `CustomerId`).
+* **Ingeniería de Características & Fuga Patrimonial:** Diseño de variables deterministas de alto poder discriminante: `AgeInactiveInteraction` (2.ª variable en importancia Gini con 19.4%, aislando clientes inactivos >45 años con >55% de probabilidad de abandono) e `IsMultiProductRisk` (alerta ante el salto de abandono del 82.7% al 100% en clientes con $\ge$3 productos). Asimismo, se detectó una fuga patrimonial crítica en Alemania (32.4% de churn con saldos promedio de USD 120,000).
+* **Calibración y Desempeño en Test:** Optimización de `Random Forest` vía `StratifiedKFold(5)` y calibración del umbral de decisión a **0.52**. En la partición de prueba ciega alcanzó un **$F_1$-score de 0.6300**, **ROC-AUC de 0.8655** y un **Recall del 66.09%** (captura a 2 de cada 3 cancelaciones reales con 60.18% de precisión), habilitando acciones comerciales costo-efectivas.
+
+👉 [📂 Ver Repositorio en GitHub](https://github.com/DSRoCCO/Beta_Bank_mvp) |
 
 ---
 
