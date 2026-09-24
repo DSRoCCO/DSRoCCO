@@ -81,18 +81,6 @@ Actualmente curso la **Maestría en Ciencia de Datos en la UNSA**, formación qu
 
 ---
 
-### 🤖 Enterprise AI Multi-Agent & Clean Architecture Backend (En Producción)
-
-`FastAPI` • `TypeScript` • `LangChain` • `vLLM (FP4/FP8)` • `Docker` • `n8n` • `Vitest/Pytest`
-
-* **Descripción del Problema & Negocio:** Arquitectura backend desacoplada orientada a la orquestación de agentes inteligentes autónomos, integrando pipelines de inferencia local con modelos abiertos y validación estricta de esquemas.
-* **Diseño Arquitectónico:** Implementación de Domain-Driven Design (DDD), puertos/adaptadores y patrones Result Monad para robustez en ejecución asíncrona.
-* **Orquestación y Automatización:** Integración con flujos de n8n y microservicios para ingesta y toma de decisiones autónomas en flujos corporativos bajo estándares **OWASP Top 10**.
-
-👉 [📂 Ver Repositorio en GitHub](https://github.com/DSRoCCO) | [📑 Documentación de Arquitectura](https://github.com/DSRoCCO)
-
----
-
 ### 🏛️ Los 5 Pilares de Mi Perfil Técnico
 
 <table width="100%">
