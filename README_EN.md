@@ -77,7 +77,7 @@ Currently pursuing a **Master of Science in Data Science at UNSA**, reinforced b
 * **Explainable, validated MVP:** The Shiny app provides descriptive and predictive modules, validates required fields, finite values, and ranges observed during training, and presents estimated probability, class, and local linear contributions. Those contributions explain the model calculation, not clinical causality.
 * **End-to-end reproducibility:** The container pins **R 4.3.3**, restores locked dependencies through `renv`, trains the model from included data, and runs smoke tests before serving the application.
 
-👉 [📂 View repository on GitHub](https://github.com/DSRoCCO/Breast_Cancer_mvp) | [📊 View published analysis](https://dsrocco.github.io/Breast_Cancer_mvp/analisis_integral.html)
+👉 [📂 View repository on GitHub](https://github.com/DSRoCCO/Breast_Cancer_mvp) | [📊 View Code & Architecture](https://dsrocco.github.io/Breast_Cancer_mvp/)
 
 ---
 
