@@ -77,7 +77,34 @@ Actualmente curso la **Maestría en Ciencia de Datos en la UNSA**, formación qu
 * **Ingeniería de Características & Fuga Patrimonial:** Diseño de variables deterministas de alto poder discriminante: `AgeInactiveInteraction` (2.ª variable en importancia Gini con 19.4%, aislando clientes inactivos >45 años con >55% de probabilidad de abandono) e `IsMultiProductRisk` (alerta ante el salto de abandono del 82.7% al 100% en clientes con $\ge$3 productos). Asimismo, se detectó una fuga patrimonial crítica en Alemania (32.4% de churn con saldos promedio de USD 120,000).
 * **Calibración y Desempeño en Test:** Optimización de `Random Forest` vía `StratifiedKFold(5)` y calibración del umbral de decisión a **0.52**. En la partición de prueba ciega alcanzó un **$F_1$-score de 0.6300**, **ROC-AUC de 0.8655** y un **Recall del 66.09%** (captura a 2 de cada 3 cancelaciones reales con 60.18% de precisión), habilitando acciones comerciales costo-efectivas.
 
-👉 [📂 Ver Repositorio en GitHub](https://github.com/DSRoCCO/Beta_Bank_mvp) |
+👉 [📂 Ver repositorio en GitHub](https://github.com/DSRoCCO/Beta_Bank_mvp)
+
+---
+
+### 🩺 Breast Cancer: Clasificación Reproducible y MVP Educativo en R
+
+`R` • `tidymodels` • `Elastic Net` • `Shiny` • `Quarto` • `Docker` • `renv`
+
+* **Problema y propósito responsable:** Análisis de características nucleares de masas mamarias y su conversión en un MVP interactivo. Se presenta explícitamente como recurso académico: no es un dispositivo médico, no confirma diagnósticos ni debe emplearse para tomar decisiones clínicas.
+* **Flujo analítico trazable:** El análisis reproducible en Quarto documenta la exploración y el entrenamiento; el flujo de `tidymodels` encapsula normalización y clasificación con **Elastic Net**, evitando que el preprocesamiento quede separado del modelo.
+* **MVP explicable y validado:** La aplicación Shiny ofrece módulos descriptivo y predictivo, valida campos obligatorios, valores finitos y rangos observados en entrenamiento, y presenta probabilidad, clase estimada y contribuciones lineales locales. Estas contribuciones explican el cálculo del modelo, no causalidad clínica.
+* **Reproducibilidad de extremo a extremo:** El contenedor fija **R 4.3.3**, restaura dependencias bloqueadas mediante `renv`, entrena el modelo a partir de los datos incluidos y ejecuta pruebas de humo antes de iniciar la aplicación.
+
+👉 [📂 Ver repositorio en GitHub](https://github.com/DSRoCCO/Breast_Cancer_mvp) | [📊 Ver análisis publicado](https://dsrocco.github.io/Breast_Cancer_mvp/analisis_integral.html)
+
+---
+
+### 🗂️ Más proyectos del portafolio
+
+Además de los casos destacados anteriores, estos proyectos completan mi portafolio de analítica, *machine learning* y aplicaciones reproducibles:
+
+| Proyecto | Enfoque y principal hallazgo | Tecnologías |
+| :--- | :--- | :--- |
+| [🎬 Film Junky Union](https://github.com/DSRoCCO/Film_Junky_Union_mvp) | Moderación asistida de reseñas cinematográficas: LinearSVC con TF-IDF alcanzó **F1 negativo 0.8898** y **88.91%** de exactitud. Los casos ambiguos se derivan a revisión humana para equilibrar automatización y seguridad. | `Python` · `NLP` · `scikit-learn` · `Streamlit` · `Docker` |
+| [🚕 NYC Yellow Taxi](https://github.com/DSRoCCO/nyc_yellow_taxi_mvp) | Análisis reproducible de demanda, estacionalidad y concentración geográfica de los viajes TLC. El MVP incorpora *backtesting* 2022–2024 y pronósticos de corto y largo plazo, comunicando explícitamente sus límites no causales. | `R` · `Shiny` · `Quarto` · Series temporales · `Docker` |
+| [🛢️ OilyGiant](https://github.com/DSRoCCO/OilyGiant_mvp) | Selección prescriptiva de pozos bajo presupuesto y riesgo. Compara tres regiones y simula el beneficio de desarrollar 200 de 500 candidatos, respetando un límite de probabilidad de pérdida de **2.5%**. | `Python` · Regresión lineal · *Bootstrap* · `Streamlit` · `Docker` |
+| [🚘 Rusty Bargain](https://github.com/DSRoCCO/Rusty_Baregain_mvp) | Estimación de precios de vehículos usados con HistGradientBoosting y comparables por marca/modelo. El modelo logra **MAE EUR 1,003.89** y **RMSE EUR 1,598.78**, con alcance claramente delimitado para no usarlo como tasación comercial. | `Python` · `scikit-learn` · `Streamlit` · `Docker` |
+| [🛡️ Sure Tomorrow](https://github.com/DSRoCCO/Sure_Tomorrow_mvp) | Sistema de apoyo actuarial para reclamos de seguros. Detectó un umbral de riesgo por edad y, tras calibración, obtuvo **F1 0.9956**, **AUC-ROC 1.0000** y **100% recall** en el conjunto de prueba. | `Python` · `scikit-learn` · `imbalanced-learn` · `Streamlit` · `Docker` |
 
 ---
 
