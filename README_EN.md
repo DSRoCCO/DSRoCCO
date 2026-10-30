@@ -42,19 +42,6 @@ Currently pursuing a **Master of Science in Data Science at UNSA**, reinforced b
 
 ### 📌 Strategic Featured Repositories (Curated Showcase)
 
-### 🚗 Auto Motors: Econometric Time Series Modeling & Pandemic Shock Mitigation
-
-`Python` • `SARIMAX` • `Statsmodels` • `Pandas` • `NumPy` • `Seaborn` • `Business Intelligence`
-
-* **Problem Statement & Business Context:** Financial audit and post-COVID-19 predictive analysis for the Auto Motors dealership network. Based on a historical dataset of **127,255 cleaned transactions** (filtered from over 1M raw records) and **USD 17,036,580.81** billed across 7 dealership locations, the study evaluated commercial viability, operating profitability, and portfolio concentration risk.
-* **Econometric Isolation of the COVID-19 Shock:** Implementation and calibration of a `SARIMAX` econometric model incorporating an intervention pulse dummy variable (March 2020) to neutralize lockdown distortions without altering historical accounting integrity.
-* **5-Year Strategic Trajectories (2021–2025):** Scenario simulation across three horizons (Normalized Baseline, Pessimistic -15%, and Optimistic +20%) with annualized CAGR calculations, explicitly highlighting the *statistical rebound effect* in 2021 (+506.16% in the median scenario) to prevent misleading executive valuations.
-* **HR & Branch Risk Mitigation:** Identification of critical operational vulnerability driven by commercial concentration (a single advisor generated 46.4% of global revenue: USD 7,901,499) along with a formal recommendation to restructure or close the 2 least profitable branches.
-
-👉 [📂 View Repository on GitHub](https://github.com/DSRoCCO) | [📊 View Notebook & Analysis](https://github.com/DSRoCCO) | [📄 View Executive Report (PDF)](https://github.com/DSRoCCO)
-
----
-
 ### 📶 Megaline Telecom: Decision Support System (DSS) & Prepaid Tariff Optimization
 
 `Python` • `Scikit-learn` • `SciPy (Stats)` • `Pandas` • `NumPy` • `Docker` • `uv` • `Telecom Analytics`
@@ -64,7 +51,7 @@ Currently pursuing a **Master of Science in Data Science at UNSA**, reinforced b
 * **Rigorous Statistical Inference:** Welch's t-test ($t = -7.95$, $p = 3.17 \times 10^{-15}$) and Mann-Whitney U test ($p = 1.91 \times 10^{-48}$) confirmed statistically significant differences in mean revenue between both tariffs. Regional pricing differentiation was ruled out, as the marginal revenue spread in NY-NJ ($5.30 USD) does not offset regional operational complexity.
 * **Consumption Paradox & Preventive Upselling:** Median usage metrics were identical across both tiers (17 GB and ~424 minutes), demonstrating that plan selection is driven by initial price perception rather than rational consumption capacity. A cohort of **87 Surf users (26.1%)** was identified averaging >USD 70/month and exposed to acute *bill shock*; proactively migrating them to Ultimate secures **USD 6,090/month** in predictable, low-churn recurring revenue.
 
-👉 [📂 View Repository on GitHub](https://github.com/DSRoCCO/megaline-telecom-mvp) | [📊 View Code & Architecture](https://github.com/DSRoCCO/megaline-telecom-mvp)
+👉 [📂 View Repository on GitHub](https://github.com/DSRoCCO/megaline-telecom-mvp) | [📊 View Code & Architecture](https://github.com/DSRoCCO/megaline-telecom-mvp/blob/main/notebook/exploratory_analysis.ipynb)
 
 ---
 
@@ -77,7 +64,7 @@ Currently pursuing a **Master of Science in Data Science at UNSA**, reinforced b
 * **Feature Engineering & Capital Outflow Findings:** Domain-driven feature design targeting non-linear risk: `AgeInactiveInteraction` emerged as the 2nd most predictive feature (19.4% Gini importance), isolating inactive clients over 45 who exhibited >55% churn probability; `IsMultiProductRisk` captured the churn spike from 82.7% to 100% on clients holding $\ge$3 products. Additionally, severe wealth flight was uncovered in Germany (32.4% churn rate among accounts with average balances of USD 120,000).
 * **Threshold Calibration & Holdout Test Performance:** `Random Forest` hyperparameter optimization via 5-fold stratified cross-validation and decision threshold tuning at **0.52**. The model achieved an **$F_1$-score of 0.6300**, **ROC-AUC of 0.8655**, and **Recall of 66.09%** on the holdout test set (capturing 2 out of 3 actual churners with 60.18% precision).
 
-👉 [📂 View repository on GitHub](https://github.com/DSRoCCO/Beta_Bank_mvp)
+👉 [📂 View repository on GitHub](https://github.com/DSRoCCO/Beta_Bank_mvp) | [📊 View Code & Architecture](https://github.com/DSRoCCO/Beta_Bank_mvp/blob/main/notebook/exploratory_analysis.ipynb)
 
 ---
 

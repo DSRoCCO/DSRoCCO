@@ -42,19 +42,6 @@ Actualmente curso la **Maestría en Ciencia de Datos en la UNSA**, formación qu
 
 ### 📌 Repositorios Estratégicos Destacados (Curated Showcase)
 
-### 🚗 Auto Motors: Modelado Econométrico de Series Temporales & Mitigación de Choque Pandémico
-
-`Python` • `SARIMAX` • `Statsmodels` • `Pandas` • `NumPy` • `Seaborn` • `Business Intelligence`
-
-* **Descripción del Problema & Negocio:** Auditoría financiera y análisis predictivo post-COVID-19 para la cadena automotriz Auto Motors. Sobre una base histórica de **127,255 transacciones limpias** (depuradas de más de 1M de registros brutos) y **USD 17,036,580.81** facturados en 7 sedes, se evaluó la viabilidad comercial, la rentabilidad operativa y el riesgo de concentración de cartera.
-* **Aislamiento Econométrico del Shock COVID-19:** Implementación y ajuste de un modelo econométrico `SARIMAX` con variable exógena de intervención por pulso (marzo 2020) para neutralizar la distorsión del confinamiento sin falsear la contabilidad histórica.
-* **Proyecciones Estratégicas a 5 Años (2021-2025):** Simulación de trayectorias bajo tres escenarios (Inercial Normalizado, Pesimista -15% y Optimista +20%) y cálculo de CAGR anualizado, advirtiendo explícitamente el *efecto rebote estadístico* en 2021 (+506.16% en escenario medio) para evitar valoraciones gerenciales engañosas.
-* **Alerta de Riesgo en RRHH & Sedes:** Identificación de vulnerabilidad operativa crítica por concentración comercial (un asesor generó el 46.4% de la facturación global: USD 7,901,499) y recomendación formal de reestructuración/cierre de las 2 sedes menos rentables.
-
-👉 [📂 Ver Repositorio en GitHub](https://github.com/DSRoCCO) | [📊 Ver Notebook & Análisis](https://github.com/DSRoCCO) | [📄 Ver Informe Ejecutivo (PDF)](https://github.com/DSRoCCO)
-
----
-
 ### 📶 Megaline Telecom: Decision Support System (DSS) & Optimización de Tarifas Prepago
 
 `Python` • `Scikit-learn` • `SciPy (Stats)` • `Pandas` • `NumPy` • `Docker` • `uv` • `Telecom Analytics`
@@ -64,7 +51,7 @@ Actualmente curso la **Maestría en Ciencia de Datos en la UNSA**, formación qu
 * **Inferencia Estadística Rigurosa:** Pruebas t de Welch ($t = -7.95$, $p = 3.17 \times 10^{-15}$) y Mann-Whitney U ($p = 1.91 \times 10^{-48}$) confirmaron diferencias estadísticamente significativas en el ingreso promedio entre ambos planes. Se descartó además la diferenciación geográfica de precios, dado que la brecha en NY-NJ ($5.30 USD) no amortiza la complejidad operativa regional.
 * **Paradoja de Consumo & Upselling Preventivo:** Las medianas de consumo resultaron idénticas entre tarifas (17 GB y ~424 min), demostrando que la contratación no responde a una estimación técnica racional del usuario. Se detectaron **87 clientes Surf (26.1%)** con gasto mensual promedio >USD 70 sujetos a riesgo inminente de cancelación por *bill shock*; la migración estructurada a Ultimate asegura **USD 6,090 mensuales** en ingresos predecibles y de bajo churn.
 
-👉 [📂 Ver Repositorio en GitHub](https://github.com/DSRoCCO/megaline-telecom-mvp) | [📊 Ver Código & Arquitectura](https://github.com/DSRoCCO/megaline-telecom-mvp)
+👉 [📂 Ver Repositorio en GitHub](https://github.com/DSRoCCO/megaline-telecom-mvp) | [📊 Ver Código & Arquitectura](https://github.com/DSRoCCO/megaline-telecom-mvp/blob/main/notebook/exploratory_analysis.ipynb)
 
 ---
 
@@ -77,7 +64,7 @@ Actualmente curso la **Maestría en Ciencia de Datos en la UNSA**, formación qu
 * **Ingeniería de Características & Fuga Patrimonial:** Diseño de variables deterministas de alto poder discriminante: `AgeInactiveInteraction` (2.ª variable en importancia Gini con 19.4%, aislando clientes inactivos >45 años con >55% de probabilidad de abandono) e `IsMultiProductRisk` (alerta ante el salto de abandono del 82.7% al 100% en clientes con $\ge$3 productos). Asimismo, se detectó una fuga patrimonial crítica en Alemania (32.4% de churn con saldos promedio de USD 120,000).
 * **Calibración y Desempeño en Test:** Optimización de `Random Forest` vía `StratifiedKFold(5)` y calibración del umbral de decisión a **0.52**. En la partición de prueba ciega alcanzó un **$F_1$-score de 0.6300**, **ROC-AUC de 0.8655** y un **Recall del 66.09%** (captura a 2 de cada 3 cancelaciones reales con 60.18% de precisión), habilitando acciones comerciales costo-efectivas.
 
-👉 [📂 Ver repositorio en GitHub](https://github.com/DSRoCCO/Beta_Bank_mvp)
+👉 [📂 Ver repositorio en GitHub](https://github.com/DSRoCCO/Beta_Bank_mvp) | [📊 Ver Código & Arquitectura](https://github.com/DSRoCCO/Beta_Bank_mvp/blob/main/notebook/exploratory_analysis.ipynb)
 
 ---
 
